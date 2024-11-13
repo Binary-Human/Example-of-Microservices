@@ -1,0 +1,6 @@
+fr/insa/StudentsListService/controller/StudentListResource.class
+fr/insa/StudentsListService/model/Student.class
+fr/insa/StudentsListService/model/Evaluation.class
+fr/insa/StudentsListService/model/StudentIDList.class
+fr/insa/StudentsListService/model/StudentInfo.class
+fr/insa/StudentsListService/StudentsListServiceApplication.class
